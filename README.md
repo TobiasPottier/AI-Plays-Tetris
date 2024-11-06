@@ -6,7 +6,7 @@ This project is about an AI-like agent playing Tetris, employing a rule-based ap
 
 **How It Works**
 ---------------
-The agent evaluates each move and chooses the placement with the highest reward, considering factors like:
+The agent evaluates each move and chooses the placement with the highest reward, considering these factors:
 
 - Reducing holes
 - Keeping the piece low on the board
