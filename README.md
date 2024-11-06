@@ -15,3 +15,21 @@ The agent evaluates each move and chooses the placement with the highest reward,
 
 
 ![vid2](https://github.com/user-attachments/assets/65775d46-c1b0-4e00-9d42-385d41a76a81)
+
+**Instalation**
+---------------
+
+1. Clone the repository:
+```
+git clone https://github.com/username/AI-Plays-Tetris.git
+```
+
+2. Install dependencies and run:
+```
+# Install required packages
+pip install -r requirements.txt
+```
+```
+# Run Tetris agent
+python main.py
+```
