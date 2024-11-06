@@ -11,7 +11,7 @@ The agent evaluates each move and chooses the placement with the highest reward,
 - Reducing holes
 - Keeping the piece low on the board
 - Clearing lines
-- Amount of empty columns (pillars)
+- Reducing the amount of empty columns (pillars)
 
 
 ![vid2](https://github.com/user-attachments/assets/65775d46-c1b0-4e00-9d42-385d41a76a81)
