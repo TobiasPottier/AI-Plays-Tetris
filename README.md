@@ -31,5 +31,5 @@ pip install -r requirements.txt
 ```
 ```
 # Run Tetris agent
-python main.py
+python3 run.py
 ```
