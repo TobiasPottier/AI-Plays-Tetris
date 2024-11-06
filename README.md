@@ -21,7 +21,7 @@ The agent evaluates each move and chooses the placement with the highest reward,
 
 1. Clone the repository:
 ```
-git clone [https://github.com/username/AI-Plays-Tetris.git](https://github.com/TobiasPottier/AI-Plays-Tetris)
+git clone https://github.com/username/AI-Plays-Tetris.git
 ```
 
 2. Install dependencies and run:
